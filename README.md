@@ -1,6 +1,7 @@
 # ZipManager PHP class
 
 Simple PHP class for creating and downlading zip archives easily.
+
 Create and download zip archives with a single line of code. 
 
 ## Installation
